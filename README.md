@@ -5,7 +5,7 @@
  
  <table><tr>
  <td  width="200" height= "250">Animator View</td>
-<td  width="650" height= "250"><img src="Images\animator.JPG" ></td>
+<td  width="650" height= "250"><img src="https://github.com/Amulya-coder/Pacman-clone/blob/master/gameimage/pacman.gif?raw=true" alt="Gamepla></td>
 </tr>
 </table>
 
